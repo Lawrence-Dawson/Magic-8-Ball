@@ -1,6 +1,6 @@
 
 ## Magic 8 Ball
-A simple IOS app for rolling dice
+A simple IOS app for telling fortunes with a virtual Magic 8 Ball
 
 To install this app:
 
